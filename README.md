@@ -1,1 +1,2 @@
-# Skribbel-io_Wordslists
+# Skribbel-io_Wordlist
+Wörterlisten für Skribbel.io im Elektrotechnik-Kurs
