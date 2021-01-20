@@ -1,1 +1,17 @@
-Ausgangskennlinienfeld, PN Übergang, Transistor, Widerstand, Spektrum, Platine, Kondensator, Hanfjunge, Zender, Oszilloskop, Spektrumanalyzer, Emitterschaltung, Basisschaltung, Kollektorschaltung, LED, Schaltplan, Mikrocontroller, Sensor, Kabel, elektrisches Feld, Magnetfeld, Elektron, Proton, Atom, Stromquelle, Sinus, ESB, Batterie, Lötkolben, IC, Wahrheitstabelle, Datenbank, Diode, Zähler, Tiefpass, Hochpass, Bandpass, Bandbreite, Fadenpendel, Federpendel, Getriebe, Schraube, Multimeter, Tastkopf, Laplacetransformation, Fouriertransformation, Konvergenzradius, Polstelle, Blockschaltbild, Nullstelle, Extrempunk, Z-Transformation, Alias, Zeitbereich, Bildbereich, Diracstoß, MatLab, Sprungfolge, Sprungfunktion, Koordinatensystem, Diagramm, Zielgröße, Stellgröße, Regelgröße, Spule, Nachklausur, Sperrschicht, Raumladungszone, Drehzeiger, Gleichstrom, Wechselstrom, Drehstrom, Magnet, Gleichrichter, Bodediagramm
+Ausgangskennlinienfeld, PN Übergang, Transistor, Widerstand, Spektrum, Platine,
+ Kondensator, Hanfjunge, Zender, Oszilloskop, Spektrumanalyzer, Emitterschaltung,
+ Basisschaltung, Kollektorschaltung, LED, Schaltplan, Mikrocontroller, Sensor,
+ Kabel, elektrisches Feld, Magnetfeld, Elektron, Proton, Atom, Stromquelle, Sinus,
+ ESB, Batterie, Lötkolben, IC, Wahrheitstabelle, Datenbank, Diode, Zähler, Tiefpass,
+ Hochpass, Bandpass, Bandbreite, Fadenpendel, Federpendel, Getriebe, Schraube,
+ Multimeter, Tastkopf, Laplacetransformation, Fouriertransformation, Konvergenzradius,
+ Polstelle, Blockschaltbild, Nullstelle, Extrempunkt, Z-Transformation, Alias, Zeitbereich,
+ Bildbereich, Diracstoß, MatLab, Sprungfolge, Sprungfunktion, Koordinatensystem, Diagramm,
+ Zielgröße, Stellgröße, Regelgröße, Spule, Nachklausur, Sperrschicht, Raumladungszone,
+ Drehzeiger, Gleichstrom, Wechselstrom, Drehstrom, Magnet, Gleichrichter, Bodediagramm, 
+Array, Pointer, Liste, Overheadprojektor, Kurzschluss, Blitz, FPGA, Maxwell-Gleichungen, Satz von Stokes, 
+Satz von Gauß, TNS-Sytem, TT-System, TI-System, Ortskurve, Magnetfluss, Durchflutung, Induktion, Stromkreis, 
+Magnetkreis, Hystereseschleife, Zylinderkoordinaten, Kugelkoordinaten, Metrischer-Tensor, Kartesischekoordinaten,
+XOR, AND, NOR, NAND, XAND, OR, Leistung, SI-System, Henry, Siemens, Volt, Ampere, Weber, Tesla, Brownsche Molekularbewegung,
+Stromdichte, Divergenz, Rotation, Gradient, Dreieck-Schaltung, Stern-Schaltung, Shunt, Quellenumwandlung, Leisungsanpassung,
+Feldlinien
